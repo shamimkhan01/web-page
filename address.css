@@ -1,0 +1,23 @@
+h1{color: brown;}
+img{width: 100%;}
+.nav{background-color: rgb(39, 131, 62);
+    columns: 5;
+    column-gap: 1px;
+    column-rule: 2px solid whitesmoke;
+    position: sticky;
+    font-size: 22px;
+    top: 0px;
+}
+.nav a:hover{background-color: rgb(60, 5, 212);
+    color: rgb(204, 27, 204);
+    text-decoration: none;
+    padding: 0px;
+    display: block;}
+    
+    
+    ul{list-style: none;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    }
+    h2{background-color: coral;color: darkblue;

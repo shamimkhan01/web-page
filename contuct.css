@@ -1,0 +1,36 @@
+h1{color: darkgreen;}
+.nav a:hover{background-color: rgb(60, 5, 212);
+    color: rgb(204, 27, 204);
+    text-decoration: none;
+    padding: 0px;
+    display: block;}
+    
+    
+    ul{list-style: none;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    }
+    .nav{background-color: rgb(39, 131, 62);
+        columns: 5;
+        column-gap: 1px;
+        column-rule: 2px solid whitesmoke;
+        position: sticky;
+        font-size: 22px;
+        top: 0px;
+    }
+    img{width: 100%;}
+    .img2{width: 40%; height: 400px;margin: auto;float: left;}
+    h2{color: rgb(97, 9, 97);}
+    a{text-decoration:none;color: rgb(243, 8, 8);}
+    a:hover{background-color: darkgreen;color: rgb(28, 120, 226);}
+    .img3{width: 38%; height: 400px;float: right;
+       margin: 0%;padding: 0;
+    }
+
+    .info{background-color: darkseagreen;
+    width:18%; margin-left: 41%; margin-right: 0%;}
+   
+
+
+       
