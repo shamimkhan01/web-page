@@ -27,6 +27,7 @@ text-align: center;
 .pera{background-color: powderblue;width: 78%;float: left; height: 500px;}
 
 .worklist{float: right; width: 20%; top: 10px;
-background-color: royalblue; height: 500px;}
+background-color: royalblue; height: 500px;
+overflow: hidden;}
 
 p{font-size: 20px;}
