@@ -20,5 +20,7 @@ text-align: center;
 }
 img{width: 100%;}
 .one{width: 200px;height: 200px;float: left;}
-.two{width: 200px;height: 200px;margin:auto;}
-.three{width: 200px;height: 200px;float: right;top: 10px}
+
+.two{width: 200px;height: 200px;float: left;;}
+
+.three{width: 200px;height: 200px;float: left;}

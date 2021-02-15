@@ -25,14 +25,15 @@ img{width: 100%;}
 
 
 
-    h1{text-align: center;}
-    .img1 img{width: 300px ;height: 350px; float: left;overflow: hidden;;
+    h1{text-align: center; float: left;}
+    .img1 img{width: 500px ;height: 350px; float: left;overflow: hidden;;
     display: block;}
 
 
 
-    .two img{width: 300px; height: 350px;float: right;overflow: hidden;top: 0%;
-    display:block;padding: -10px;}
+    .two img{width: 500px; height: 350px;float: right;overflow: hidden;top: 0%;
+    display:block;}
+    a :hover{text-decoration: none;}
 
 
   
