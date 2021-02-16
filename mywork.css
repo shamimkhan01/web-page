@@ -6,6 +6,7 @@
     font-size: 22px;
     top: 0px;
 }
+a{text-decoration: none;color: rgb(21, 191, 243);}
 .nav a:hover{background-color: rgb(60, 5, 212);
 color: rgb(204, 27, 204);
 text-decoration: none;
@@ -19,8 +20,15 @@ padding: 0px;
 text-align: center;
 }
 img{width: 100%;}
-.one{width: 200px;height: 200px;float: left;}
 
-.two{width: 200px;height: 200px;float: left;;}
 
-.three{width: 200px;height: 200px;float: left;}
+body{background-color: rgb(152, 22, 228);}
+.one{width: 200px;height: 200px;float: left;
+padding: 10px;}
+
+.two{width: 200px;height: 200px;float: left;padding: 10px;}
+
+.three{width: 200px;height: 200px;float: left;padding: 10px;}
+.one img{border-radius: 5%;}
+.two img{border-radius: 5%;}
+.three img{border-radius: 5%;}

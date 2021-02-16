@@ -1,4 +1,4 @@
-h1{color: brown;}
+h1{color: rgb(55, 134, 31); text-align: center;}
 img{width: 100%;}
 .nav{background-color: rgb(39, 131, 62);
     columns: 5;
@@ -8,6 +8,7 @@ img{width: 100%;}
     font-size: 22px;
     top: 0px;
 }
+a{text-decoration: none;color: rgb(21, 191, 243);}
 .nav a:hover{background-color: rgb(60, 5, 212);
     color: rgb(204, 27, 204);
     text-decoration: none;
@@ -20,4 +21,4 @@ img{width: 100%;}
     padding: 0px;
     text-align: center;
     }
-    h2{background-color: coral;color: darkblue;
+    h2{background-color: rgb(222, 10, 241);color: darkblue;text-align: center;}
