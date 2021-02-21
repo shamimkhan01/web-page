@@ -1,7 +1,5 @@
 h1{color: rgb(55, 134, 31); text-align: center;}
-.one{width: 82.7%;
-    margin-left: 117px;
-  }
+.one{width: 100%;margin: auto;}
 
 .menu{background-color: rgb(39, 131, 62);
     columns: 5;
@@ -27,3 +25,4 @@ a{text-decoration: none;color: rgb(21, 191, 243);}
     text-align: center;
     }
     h2{background-color: rgb(222, 10, 241);color: darkblue;text-align: center;}
+.row{background-color: rgb(28, 8, 75);}
