@@ -1,10 +1,10 @@
-body{background-color: background: rgb(131,44,157);
-    background: linear-gradient(90deg, rgba(131,44,157,0.7903536414565826) 6%, rgba(185,35,171,1) 22%, rgba(167,52,179,1) 40%, rgba(102,136,53,0.4009978991596639) 80%, rgba(0,212,255,1) 100%);;}
+body{background-image: url(allphotos/home/back.jpg);}
 
 
 
-.myNavColor{background: rgb(255,217,234);
-    background: linear-gradient(90deg, rgba(255,217,234,0.8799894957983193) 4%, rgba(120,78,23,1) 14%, rgba(120,106,25,0.9444152661064426) 27%, rgba(128,26,77,1) 52%, rgba(46,37,117,0.8099614845938375) 69%, rgba(67,56,150,1) 85%, rgba(46,82,117,0.7679446778711485) 94%);}
+.myNavColor{background-image: url("allphotos/home/cover.jpg");}
+
+    
 
 
 
@@ -12,7 +12,7 @@ h1{text-align: center; color:darkblue}
 
 img{width: 100%;height: 200px;}
 
-.menu{background-color: rgb(25, 39, 54);
+.menu{background-color: rgb(0, 2, 5);
     columns: 5;
     column-gap: 1px;
     column-rule: 2px solid whitesmoke;
@@ -20,9 +20,9 @@ img{width: 100%;height: 200px;}
     font-size: 22px;
     top: 0px;
 }
-a{text-decoration: none;color: rgb(56, 59, 250);}
-.menu a:hover{background-color: rgba(233, 128, 7, 0.911);
-color: rgb(204, 27, 204);
+.menu a{text-decoration: none;color: rgb(253, 10, 10);}
+.menu a:hover{background-color: rgba(233, 7, 7, 0.911);
+color: rgb(3, 0, 3);
 text-decoration: none;
 padding: 0px;
 display: block;}
@@ -33,18 +33,31 @@ margin: 0px;
 padding: 0px;
 text-align: center;
 }
-.pera{background-color: powderblue;font-size: 15px;}
+.pera{background-image: url(allphotos/home/mine.jpg);background-size:cover;
+min-height: 700px;}
+.pera{background-color: black;}
+
+
+.about h1{text-align: center;color: rgb(240, 14, 14); }
+.about h2,h4{text-align: center; color: rgb(20, 20, 196);}
+.xp{margin-left: 50%; margin-top: 8%;text-align: center;}
+.xp ul{font-size: xx-large;color: crimson;}
+.xp h2{color: darkgreen;}
 
 .worklist{
 font-size: 20px;}
+.vid h3{color: maroon;}
 
-p{font-size: 15px;}
+}
+
 .worklist a{color: rgb(252, 99, 206);}
-.worklist ol  :hover{background-color: rgb(129, 42, 27);color: white;}
-
+.worklist ol a{text-decoration: none; display: block; color: rgb(58, 37, 247);}
+.worklist ol  :hover{background-color: rgb(0, 0, 0);color: white;}
+.worklist h1{color: darkgreen;}
 
 .fotericon img{ height:25px; width: 25px; }
 .fotericon{ margin-left: 45%;}
+.footer {background-color: rgb(0, 0, 0);}
 
 <!====================footer============>
 
