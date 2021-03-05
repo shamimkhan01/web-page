@@ -52,7 +52,7 @@ font-size: 20px;}
 
 .worklist a{color: rgb(252, 99, 206);}
 .worklist ol a{text-decoration: none; display: block; color: rgb(177, 220, 236);}
-.worklist ol  :hover{background-color: rgb(0, 0, 0);color: white;}
+.worklist ol  :hover{background-color: rgb(0, 0, 0);color: rgb(250, 40, 40);}
 .worklist h1{color: darkgreen;}
 
 .fotericon img{ height:25px; width: 25px; }
